@@ -26,8 +26,7 @@ Design a simple Java class Employee with the following attributes:
 • id (integer)
 • name (string)
 • salary (double)
-Create a method displayDetails() to print employee details.
-#### <br> Write a main method to:
+Create a method displayDetails() to print employee details. Write a main method to:
   - Create at least 3 Employee objects.
   - Store them in a list.
   - Display their details.
