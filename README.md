@@ -32,7 +32,7 @@ Create a method displayDetails() to print employee details. Write a main method 
   - Display their details.
 
 
-4 . Create a simple to-do list using JavaScript and the DOM.
+4. Create a simple to-do list using JavaScript and the DOM.
 • Allow users to add new tasks.
 • Display tasks in a list.
 • Provide a button to remove each task.
