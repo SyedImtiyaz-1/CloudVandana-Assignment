@@ -1,5 +1,16 @@
 # CloudVandana-Assignment
 
+### Deployed Links : 
+- Assignment 1 : https://assignment1-beige-six.vercel.app/
+
+- Assignment 2 : https://github.com/SyedImtiyaz-1/CloudVandana-Assignment/blob/main/Assignment-2%3AAnagram/anagram.java
+
+- Assignment 3 : https://github.com/SyedImtiyaz-1/CloudVandana-Assignment/blob/main/Assignment-3%3AOOP-EMS/ems.java
+
+- Assignment 4 : https://assignment2-bice-ten.vercel.app/
+
+- Assignment 5 : https://assignment3-three-neon.vercel.app/
+
 ### Assignment
 1. Create a Simple Profile Card
 Design a responsive profile card using HTML and CSS. The card should include:
